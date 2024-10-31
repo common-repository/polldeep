@@ -1,0 +1,5 @@
+#toplevel_page_polldeep .dashicons-welcome-widgets-menus:before {
+  background: url("images/transparent-arrow.png") no-repeat scroll left center / 20px auto rgba(0, 0, 0, 0);
+  content: "";
+  margin-top: 6px;
+}
